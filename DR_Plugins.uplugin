@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "DR_Plugins",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "David Reece",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "DR_Plugins",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
